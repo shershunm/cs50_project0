@@ -1,0 +1,73 @@
+body {
+  background-color: black;
+}
+
+.nav {
+  margin: 20px;
+}
+
+h1, h3, h5 {
+  color: darkorange;
+  text-align: center;
+}
+
+.lead {
+  padding: 20px;
+  color: white;
+  text-align: left;
+  text-size-adjust: auto;
+}
+
+.footer, .description {
+  font-size: 16px;
+  color: white;
+  padding: 15px;
+}
+
+.description {
+  text-align: left;
+  text-size-adjust: auto;
+}
+
+.footer {
+  text-align: center;
+  background-color: grey;
+}
+
+.col-12 {
+  border: 1px solid darkorange;
+}
+
+.table {
+  color: white;
+}
+
+.container-fluid {
+  margin: 20px;
+}
+
+h4 {
+  padding: 15px;
+  color: white;
+}
+
+.list {
+  padding: 10px;
+  color: white;
+  text-align: left;
+  text-size-adjust: auto;
+}
+.list ul {
+  text-justify: auto;
+}
+.list ol {
+  text-justify: none;
+}
+
+@media print {
+  .nav-pills {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=styles1.css.map */
