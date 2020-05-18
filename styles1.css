@@ -69,5 +69,9 @@ h4 {
     display: none;
   }
 }
+.divider {
+  padding: 2px;
+  border-bottom: 1px solid darkorange;
+}
 
 /*# sourceMappingURL=styles1.css.map */
